@@ -1,4 +1,4 @@
 # UFABC
 
-Espaço destinado aos códigos desenvolvidos durante a pós-graduação.
+Respositório dos códigos da matéria Introdução ao Processamento da Informação
 
