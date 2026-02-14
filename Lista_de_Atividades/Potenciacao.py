@@ -1,3 +1,5 @@
+#Recebe dois números e calcula o primeiro elevado pelo segundo.
+
 numeros = input()
 A = int(numeros.split()[0])
 N = int(numeros.split()[1])
