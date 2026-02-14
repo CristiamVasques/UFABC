@@ -1,9 +1,9 @@
-while true:
+while True:
     try:
         numeros = input()
         i = 0
-        while(numero[i] != '0'):
-            soma = soma + int(numero[i])
+        while(numeros[i] != '0'):
+            soma = soma + int(numeros[i])
             i = i + 1
         
         print(soma)
