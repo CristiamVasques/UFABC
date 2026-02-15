@@ -30,7 +30,7 @@ numero = int(input())
 #print(f"O termo {numero} da sequência de Fibonacci é: {calcular_fibonacci(numero)}")
 print(f"FIB[{numero}] = ",calcular_fibonacci(numero))"""
 
-"""def calcular_lista_fibonacci(limite):
+def calcular_lista_fibonacci(limite):
     fib = [0, 1]
     for i in range(2, limite + 1):
         fib.append(fib[i-1] + fib[i-2])
@@ -52,9 +52,9 @@ try:
         print(f"Fib({n}) = {lista_fib[n]}")
 
 except EOFError:
-    pass"""
+    pass
 
-# 1. Pré-calculamos a sequência de Fibonacci até o 60
+"""# 1. Pré-calculamos a sequência de Fibonacci até o 60
 fib = [0] * 61
 fib[0] = 0
 fib[1] = 1
@@ -76,4 +76,4 @@ try:
         print(f"Fib({n}) = {fib[n]}")
 
 except EOFError:
-    pass
+    pass"""
