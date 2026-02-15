@@ -1,3 +1,5 @@
+#Receba várias sequencias de números inteiros e realize a soma dos valores dessas sequencias.
+
 while True:
     try:
         numeros = input().split()
@@ -10,4 +12,3 @@ while True:
         print(soma)
     except EOFError:
         break
-   
