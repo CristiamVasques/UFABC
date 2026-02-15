@@ -1,3 +1,5 @@
+#Recebe um string e imprime invertida
+
 while True:
     try:
         str = input();
